@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Home Mortgage Interest</string>
+    <string name="txtTitle">Home Mortgage Interest</string>
+    <string name="hint1">Monthly Payment</string>
+    <string name="hint2">Number of years</string>
+    <string name="hint3">Initial Principal amount of loan</string>
+    <string name="btnCompute">COMPUTE INTEREST</string>
+    <string name="imgDescription">Mortgage Years Image</string>
+    <string name="txtInterest">Total interest paid</string>
+</resources>
